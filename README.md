@@ -33,7 +33,7 @@ Estos proyectos reflejan mi forma de trabajar: documentación clara, pruebas rea
 [![Servidor DNS con BIND](https://raw.githubusercontent.com/pau-olive/configuracion-dns-bind/main/cover.png)](https://github.com/pau-olive/configuracion-dns-bind)  
 *Zonas directa e inversa, registros A/CNAME/PTR, master-slave y verificación*
 
-[![Servidor FTP/TFTP Seguro](https://raw.githubusercontent.com/pau-olive/servidor-ftp-seguro/main/cover.png)](https://github.com/pau-olive/servidor-ftp-seguro)  
+[![Servidor FTP/TFTP Seguro](https://raw.githubusercontent.com/pau-olive/ftp-vsftpd-xinetd/main/cover.png)](https://github.com/pau-olive/ftp-vsftpd-xinetd)  
 *Configuración segura con vsftpd, chroot, FTPS y TFTP vía xinetd*
 
 Más proyectos en desarrollo 🚀
