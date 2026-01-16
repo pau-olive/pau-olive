@@ -2,19 +2,25 @@
 
 **Administrador de Sistemas | Especialista en Linux, Redes, Servidores y Bases de Datos**
 
-¡Hola! Soy Pau Olivé Moreno, un apasionado de la administración de sistemas y las infraestructuras TI. Me encanta transformar entornos complejos en soluciones robustas, seguras y escalables. Mi enfoque combina el mundo on-premise (Linux, redes, servidores) con el cloud (AWS, Azure, automatización y DevOps).
+¡Hola! Soy Pau Olivé Moreno, un apasionado de la administración de sistemas y las infraestructuras TI con sede en Barcelona. Me encanta transformar entornos complejos en soluciones robustas, seguras y escalables. Mi enfoque combina el mundo on-premise (Linux, redes, servidores) con el cloud (AWS, Azure, automatización y DevOps), siempre poniendo el foco en la **ciberseguridad** y la alta disponibilidad.
 
-Me motiva especialmente construir sistemas resilientes y seguros: desde servidores de correo y DNS hasta clústers NoSQL distribuidos. Disfruto el reto de configurar servicios clásicos con las mejores prácticas de ciberseguridad (chroot, FTPS, hardening, autenticación segura) y prepararlos para entornos híbridos y cloud-native.
+Me motiva especialmente construir sistemas resilientes: desde servidores de correo y DNS hasta clústers NoSQL distribuidos. Disfruto el reto de configurar servicios clásicos con las mejores prácticas de seguridad (chroot, FTPS, hardening, autenticación segura) y prepararlos para entornos híbridos y cloud-native. Cada proyecto que hago lo documento con detalle, pruebas reales y capturas paso a paso para que sea 100% reproducible.
 
-Estos proyectos reflejan mi forma de trabajar: documentación clara, pruebas reales, enfoque en seguridad y alta disponibilidad, y siempre con ganas de aprender y mejorar.
+Estos proyectos reflejan mi forma de trabajar: documentación clara, enfoque en seguridad, alta disponibilidad y ganas de aprender y mejorar continuamente.
 
 ### Habilidades clave
-- **Sistemas Linux** (Ubuntu, Debian, CentOS) – Hardening, automatización con Bash/Ansible
-- **Redes** – Configuración de DNS, DHCP (relay/multi-segmento), FTP seguro, NAT/rutas
-- **Servidores** – Postfix/Dovecot (correo), Bind9 (DNS), vsftpd/xinetd (FTP/TFTP), Clonezilla (clonación)
+- **Sistemas Linux** (Ubuntu, Debian) – Hardening, automatización con Bash/Ansible
+- **Redes** – DNS (Bind9 master-slave), DHCP (relay/multi-segmento), FTP seguro (vsftpd + xinetd), NAT/rutas
+- **Servidores** – Postfix/Dovecot (correo con listas de distribución), Bind9 (DNS), vsftpd/xinetd (FTP/TFTP), Clonezilla (clonación)
 - **Bases de datos** – MongoDB distribuido (Replica Set + Sharded Cluster)
 - **Cloud & DevOps** – Base sólida para AWS VPC, Azure Networking, CI/CD y contenedores
-- **Ciberseguridad** – Chroot, FTPS, autenticación segura, verificación de servicios
+- **Ciberseguridad** – Chroot, FTPS, autenticación segura, verificación de servicios y hardening
+
+### Portafolio Web Profesional
+He creado una página web personal para presentar todos mis proyectos de forma visual y atractiva. Puedes visitarla aquí:
+
+🌐 **https://pau-olive.github.io**  
+*(Portafolio online con todas las portadas, enlaces directos a los repositorios y más detalles sobre cada proyecto)*
 
 ### Proyectos destacados
 
@@ -42,6 +48,6 @@ Más proyectos en desarrollo 🚀
 - 📧 Email: pauolivez@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/pauolivé
 
-¡Gracias por visitar mi perfil! Si te interesa colaborar, discutir algún proyecto o simplemente charlar sobre sistemas, redes o cloud, ¡no dudes en escribirme! 😊
+¡Gracias por visitar mi perfil! Si te interesa colaborar, discutir algún proyecto, hablar sobre sistemas, redes, cloud o ciberseguridad, ¡no dudes en escribirme! Estoy abierto a oportunidades, ideas y charlas técnicas. 😊
 
 Última actualización: Enero 2026
